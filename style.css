@@ -994,6 +994,7 @@ noscript {
     font-size: 3rem;
     font-family: fira code;
     font-weight: 500;
+    white-space: nowrap;
     background-image: linear-gradient(90deg, var(--static-heading-gradient-blue), var(--static-heading-gradient-pink));
     background-clip: text;
     -webkit-background-clip: text;
